@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "multicastDelegate/1.0.0": {
+        "runtime": {
+          "multicastDelegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "multicastDelegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

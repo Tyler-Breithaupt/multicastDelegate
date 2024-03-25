@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/bin/Debug/net7.0/multicastDelegate
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/bin/Debug/net7.0/multicastDelegate.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/bin/Debug/net7.0/multicastDelegate.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/bin/Debug/net7.0/multicastDelegate.dll
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/bin/Debug/net7.0/multicastDelegate.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/obj/Debug/net7.0/multicastDelegate.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/obj/Debug/net7.0/multicastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/obj/Debug/net7.0/multicastDelegate.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/obj/Debug/net7.0/multicastDelegate.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/obj/Debug/net7.0/multicastDelegate.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/obj/Debug/net7.0/multicastDelegate.dll
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/obj/Debug/net7.0/refint/multicastDelegate.dll
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/obj/Debug/net7.0/multicastDelegate.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/obj/Debug/net7.0/multicastDelegate.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/multicastDelegate/obj/Debug/net7.0/ref/multicastDelegate.dll
